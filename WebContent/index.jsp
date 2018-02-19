@@ -13,8 +13,8 @@
 		</h2>
 		<h3>
 			<!--  change welcome.htmal to welcome -->
-			<a href="welcome">Click here to see the welcome page</a>
-			(check HomeController.java to view info for @RequestMapping("/welcome"))
+			<a href="welcome">Registration</a>
+		
 		</h3>
 	</div>
 </body>
